@@ -13,3 +13,7 @@ Any additional profile on social networks will be community-driven.
 
 ## Tokenized Identity
 This repository will be tokenized on Solana blockchain.
+
+## RIP - pnut.exe
+<img src="https://github.com/user-attachments/assets/162c25af-9969-4da1-8170-ab28e469d9cc" height="200" alt="pnut">
+
