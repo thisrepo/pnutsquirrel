@@ -1,7 +1,9 @@
 ### thisrepo/squirrel
+
 <img src="https://github.com/user-attachments/assets/deff1644-56be-43fe-bdf8-09650885d2fd" height="200" alt="squirrel">
 <img src="https://github.com/user-attachments/assets/a53c8d5b-0f69-41c6-a202-6ba0f8db1a95" height="200" alt="elon">
 
+CA: `BBmFx7z1Gb2cjzPiJ4Atp5a2sZqcfMVVHw4hcqUspump`
 
 In memory of Peanut The Squirrel who was killed, this will be the first squirrel ever to live forever in this GitHub/Git repository.
 
